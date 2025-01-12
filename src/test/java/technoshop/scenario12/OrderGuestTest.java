@@ -1,4 +1,4 @@
-package technoshop.scenario13;
+package technoshop.scenario12;
 
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
